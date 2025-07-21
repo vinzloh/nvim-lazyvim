@@ -8,7 +8,7 @@ if true then return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "gruvbox",
+      colorscheme = "catppuccin-macchiato",
     },
   },
 } end
